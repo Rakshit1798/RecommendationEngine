@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Rakshit_ISTDemoTemplate
+Python Backend / Next JS-React Frontend
+=======
+>>>>>>> 49093f7 (Initial project setup from template)
 # Demo Template: Python Backend with Next.js Frontend
 
 This repository provides a template for creating a web application with a Python backend and a Next.js frontend. The backend is managed using Poetry for dependency management, while the frontend is built with Next.js, offering a modern React-based user interface.
@@ -91,4 +98,9 @@ npm run dev
 
 ## DEMO README
 
+<<<<<<< HEAD
 <h1 style="color:red">REPLACE THE CONTENT OF THIS README WITH `README-demo.md` and DELETE THE `README-demo.md` FILE!!!!!!!!! </h1>
+=======
+<h1 style="color:red">REPLACE THE CONTENT OF THIS README WITH `README-demo.md` and DELETE THE `README-demo.md` FILE!!!!!!!!! </h1>
+>>>>>>> 0ea7ea5 (Initial commit)
+>>>>>>> 49093f7 (Initial project setup from template)
